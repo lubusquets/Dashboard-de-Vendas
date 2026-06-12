@@ -3,13 +3,24 @@
 
 Este projeto foi desenvolvido com o objetivo de transformar uma base de dados de vendas em um dashboard interativo, permitindo uma análise rápida e eficiente dos principais indicadores do negócio. Durante o desenvolvimento foram aplicadas técnicas de importação, tratamento e modelagem de dados, além da construção de visualizações que auxiliam na tomada de decisão.
 
-# 🚀 Funcionalidades 
+# :rocket: Funcionalidades 
 
-- ✅ Importação de dados a partir de arquivo Excel
-- 🧹 Tratamento e limpeza dos dados com Power Query
-- 📈 Cálculo do faturamento total
-- 🏆 Identificação do produto mais vendido
-- 📊 Análise de faturamento e quantidade vendida ao longo do tempo
-- 📋 Comparativo de vendas por marca
-- 🌍 Visualização geográfica das vendas
-- 🔄 Dashboard totalmente interativo com filtros dinâmicos
+- :white_check_mark: Importação de dados a partir de arquivo Excel
+- :broom: Tratamento e limpeza dos dados com Power Query
+- :chart_with_upwards_trend: Cálculo do faturamento total
+- :trophy: Identificação do produto mais vendido
+- :bar_chart: Análise de faturamento e quantidade vendida ao longo do tempo
+- :clipboard: Comparativo de vendas por marca
+- :earth_americas: Visualização geográfica das vendas
+- :arrows_counterclockwise: Dashboard totalmente interativo com filtros dinâmicos
+
+# :hammer_and_wrench: Tecnologias Utilizadas 
+
+| Tecnologia | Aplicação |
+|------------|-----------| 
+| :bar_chart: Power BI | Desenvolvimento do Dashboard |
+| :arrows_counterclockwise: Power Query | Tratamento e transformação dos dados |
+| :open_file_folder: Excel | Base de dados | 
+| :chart_with_upwards_trend: Data Visualization | Construção dos gráficos |
+| 🧮 Modelagem de Dados | Organização das informações |
+
