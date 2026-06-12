@@ -32,3 +32,17 @@ Este projeto foi desenvolvido com o objetivo de transformar uma base de dados de
 4. Quantidade Vendida por Marca
 5. Distribuição Geográfica das Vendas
 
+
+
+
+# :brain: Competências Desenvolvidas 
+
+- Limpeza e transformação de dados
+- Criação de KPIs
+- Construção de dashboards interativos
+- Modelagem de dados
+- Visualização de informações
+- Power Query
+- Business Intelligence
+- Análise exploratória de dados
+
