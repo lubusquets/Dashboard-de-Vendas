@@ -32,6 +32,19 @@ Este projeto foi desenvolvido com o objetivo de transformar uma base de dados de
 4. Quantidade Vendida por Marca
 5. Distribuição Geográfica das Vendas
 
+---
+# :bar_chart: Dashboard
+
+![Dashboard](https://github.com/lubusquets/Dashboard-de-Vendas/blob/main/imagens/db1.jpeg?raw=true)
+![](https://github.com/lubusquets/Dashboard-de-Vendas/blob/main/imagens/db2.jpeg?raw=true)
+![](https://github.com/lubusquets/Dashboard-de-Vendas/blob/main/imagens/db3.jpeg?raw=true)
+
+***Aguardando recebimento de e-mail estudantil para incluir o mapa interativo.**
+![](https://github.com/lubusquets/Dashboard-de-Vendas/blob/main/imagens/db4.jpeg?raw=true)
+![](https://github.com/lubusquets/Dashboard-de-Vendas/blob/main/imagens/db5.jpeg?raw=true)
+
+***Dashboard finalizado deve ficar neste formato:**
+![](https://github.com/lubusquets/Dashboard-de-Vendas/blob/main/imagens/db6.jpeg?raw=true)
 
 
 
