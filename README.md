@@ -16,11 +16,19 @@ Este projeto foi desenvolvido com o objetivo de transformar uma base de dados de
 
 # :hammer_and_wrench: Tecnologias Utilizadas 
 
-| Tecnologia | Aplicação |
+| **Tecnologia** | **Aplicação** |
 |------------|-----------| 
 | :bar_chart: Power BI | Desenvolvimento do Dashboard |
 | :arrows_counterclockwise: Power Query | Tratamento e transformação dos dados |
 | :open_file_folder: Excel | Base de dados | 
 | :chart_with_upwards_trend: Data Visualization | Construção dos gráficos |
 | 🧮 Modelagem de Dados | Organização das informações |
+
+# :clipboard: Indicadores Analisados
+
+1. Faturamento Total
+2. Produto Mais Vendido
+3. Evolução das Vendas
+4. Quantidade Vendida por Marca
+5. Distribuição Geográfica das Vendas
 
