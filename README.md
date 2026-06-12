@@ -46,7 +46,7 @@ Este projeto foi desenvolvido com o objetivo de transformar uma base de dados de
 ***Dashboard finalizado deve ficar neste formato:**
 ![](https://github.com/lubusquets/Dashboard-de-Vendas/blob/main/imagens/db6.jpeg?raw=true)
 
-
+:dart: **Objetivo:** Desenvolver um dashboard capaz de transformar dados brutos em informações estratégicas, facilitando a análise de desempenho comercial e apoiando a tomada de decisões baseada em dados.
 
 # :brain: Competências Desenvolvidas 
 
