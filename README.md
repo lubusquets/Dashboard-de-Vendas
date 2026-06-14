@@ -22,7 +22,7 @@ Este projeto foi desenvolvido com o objetivo de transformar uma base de dados de
 | :arrows_counterclockwise: Power Query | Tratamento e transformação dos dados |
 | :open_file_folder: Excel | Base de dados | 
 | :chart_with_upwards_trend: Data Visualization | Construção dos gráficos |
-| 🧮 Modelagem de Dados | Organização das informações |
+| :abacus: Modelagem de Dados | Organização das informações |
 
 # :clipboard: Indicadores Analisados
 
@@ -58,4 +58,14 @@ Este projeto foi desenvolvido com o objetivo de transformar uma base de dados de
 - Power Query
 - Business Intelligence
 - Análise exploratória de dados
+
+# :briefcase: Habilidades Demonstradas 
+✔️ ETL (Extração, Transformação e Carga) 
+✔️ Power Query 
+✔️ Criação de KPIs 
+✔️ Storytelling com Dados 
+✔️ Dashboards Interativos 
+✔️ Análise de Vendas 
+✔️ Business Intelligence
+
 
